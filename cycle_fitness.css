@@ -1,9 +1,12 @@
-body
+html
 {
-	background: -webkit-linear-gradient(#915A09, #E8950F);
+	background-image: url("images/background.png");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	/*background: -webkit-linear-gradient(#915A09, #E8950F);
 	background: -o-linear-gradient(#915A09, #E8950F);
 	background: -moz-linear-gradient(#915A09, #E8950F);
-	background: linear-gradient(#915A09, #E8950F);
+	background: linear-gradient(#915A09, #E8950F);*/
 }
 
 header
