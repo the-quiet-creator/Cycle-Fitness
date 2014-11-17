@@ -1,10 +1,8 @@
 html
 {
-	background-image: url("images/background.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
+	background-color: #193441;
 	/* The code below is the code to have a gradient from the top to the bottom of the page. Which might be better than the image if we can't figure out how to stretch it across the entire website. Especially when the page is zoomed out.*/
-	/*background: -webkit-linear-gradient(#915A09, #E8950F);
+	/*background: -webkit-linear-gradient(#915A09, #E8950F); 
 	background: -o-linear-gradient(#915A09, #E8950F);
 	background: -moz-linear-gradient(#915A09, #E8950F);
 	background: linear-gradient(#915A09, #E8950F);*/
@@ -41,12 +39,11 @@ nav
 	font-weight: lighter;
 	font-variant: small-caps;
 	text-transform: lowercase;
-	color: #2EA572;
 }
 
 a
 {
-	color: #398C71;
+	color: #252255245;
 	font-weight: bold;
 	text-decoration: none;
 }
