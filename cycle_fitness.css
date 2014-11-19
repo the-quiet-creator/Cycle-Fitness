@@ -1,6 +1,12 @@
 html
 {
 	background-color: #193441;
+<<<<<<< HEAD
+=======
+	/*background-image: url("images/background.png");*/
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+>>>>>>> origin/master
 	/* The code below is the code to have a gradient from the top to the bottom of the page. Which might be better than the image if we can't figure out how to stretch it across the entire website. Especially when the page is zoomed out.*/
 	/*background: -webkit-linear-gradient(#915A09, #E8950F); 
 	background: -o-linear-gradient(#915A09, #E8950F);
@@ -10,6 +16,8 @@ html
 
 header
 {
+	text-align: center;
+	position: relative;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-bottom-style: solid;
@@ -22,23 +30,31 @@ header
 
 .logo
 {
-	margin-left: 35px;
+	width: 100%;
+	height: 100%;	
 }
 
 nav 
 {
 	text-align: center;
-	margin-top: 45px;
-	margin-right: 35px;
-	margin-bottom: auto;
-	margin-left: auto;
-	float: right;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 20px;
 	font-style: italic;
 	font-weight: lighter;
 	font-variant: small-caps;
 	text-transform: lowercase;
+<<<<<<< HEAD
+=======
+	color: #2EA572;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+>>>>>>> origin/master
 }
 
 a
@@ -46,6 +62,8 @@ a
 	color: #252255245;
 	font-weight: bold;
 	text-decoration: none;
+	margin-right: 40px;
+	margin-left: 40px;
 }
 
 a:hover
@@ -103,8 +121,12 @@ a:hover
 
 footer
 {
-	background: -webkit-linear-gradient(red, blue); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(red, blue); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(red, blue); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(red, blue); /* Standard syntax */
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
 }
