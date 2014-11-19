@@ -71,6 +71,11 @@ a:hover
 	color:#FFF
 }
 
+a:visited
+{
+	color: #398C71
+}
+
 .main
 {
 	border-top-style: solid;
