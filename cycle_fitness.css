@@ -26,6 +26,11 @@ header
 	height: 100%;	
 }
 
+.logo_2
+{
+	float: left;
+}
+
 nav 
 {
 	text-align: center;
@@ -44,6 +49,13 @@ nav
 	border-right-color: #000;
 	border-bottom-color: #000;
 	border-left-color: #000;
+}
+
+.nav_2
+{
+	float: right;
+	margin-top: 25px;
+	margin-right: 15px;
 }
 
 a
