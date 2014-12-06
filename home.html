@@ -5,9 +5,9 @@
 		<link rel="stylesheet" type="text/css" href="cycle_fitness.css">
         
         <meta name="viewport" content="width=device-width">
-		<link rel="stylesheet" type="text/css" href="example.css">
+		<!--<link rel="stylesheet" type="text/css" href="example.css">
 		<link rel="stylesheet" type="text/css" href="font-awesome.min.css">
-        <link rel="stylesheet" type="text/css" href="slideshow.css">
+        <link rel="stylesheet" type="text/css" href="slideshow.css">-->
 	</head>
 
 <body>
@@ -38,7 +38,10 @@
       $('#slides').slidesjs({
         width: 500,
         height: 393,
-        navigation: false
+        navigation: {
+			active: true,
+			effect: "slide"
+		}
       });
     });
   </script>
