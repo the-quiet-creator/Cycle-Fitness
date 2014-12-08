@@ -124,3 +124,32 @@ footer
 	border-bottom-color: #000;
 	border-left-color: #000;
 }
+
+	
+
+
+
+.intown {
+	padding-top: 170px;
+	padding-bottom: 50px;
+	padding-left: 63px;
+}
+
+.intown h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: #ffd700	
+}
+	
+	
+
+.out {
+	padding-left: 63px;
+	padding-top: 20px;
+}
+
+.out h1 {
+	text-align: center;
+	text-decoration: underline;
+	color: #fcfff5;	
+}
