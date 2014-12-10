@@ -1,23 +1,8 @@
 html
 {
 	background-color: #193441;
-	/*background-image: url("images/background.png");*/
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-}
-
-header
-{
-	text-align: center;
-	position: relative;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
 }
 
 .logo
@@ -26,7 +11,7 @@ header
 	border: thick solid #000;
 }
 
-header
+nav
 {
 	text-align: center;
 	font-family: Helvetica, Arial, sans-serif;
@@ -51,8 +36,6 @@ a
 	color: #252255245;
 	font-weight: bold;
 	text-decoration: none;
-	margin-right: 10px;
-	margin-left: 10px;
 }
 
 a:visited
@@ -63,31 +46,6 @@ a:visited
 a:hover
 {
 	color:#FFF;
-}
-
-.main
-{
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;	
-}
-
-.main_picture
-{
-	margin-top: 10px;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.main p
-{
-	text-align: center;
 }
 
 .bottom_container
