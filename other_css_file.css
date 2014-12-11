@@ -96,7 +96,7 @@ footer
 .intown h1 {
 	text-align: center;
 	text-decoration: underline;
-	color: #ffd700	
+	color: #fcfff5;	
 }
 	
 	
@@ -110,4 +110,12 @@ footer
 	text-align: center;
 	text-decoration: underline;
 	color: #fcfff5;	
+}
+.intown p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fcfff5;
+	font-size: 14px;
+}
+
+.first_map p {
 }
