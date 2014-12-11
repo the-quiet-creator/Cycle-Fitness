@@ -99,8 +99,6 @@ footer
 	color: #fcfff5;	
 }
 	
-	
-
 .out {
 	padding-left: 63px;
 	padding-top: 20px;
@@ -111,11 +109,17 @@ footer
 	text-decoration: underline;
 	color: #fcfff5;	
 }
-.intown p {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #fcfff5;
-	font-size: 14px;
-}
 
 .first_map p {
+}
+
+#apDiv1 p {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fcfff5;
+	font-size: 16px;
+}
+#apDiv2 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #fcfff5;
 }
