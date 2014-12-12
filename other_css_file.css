@@ -71,7 +71,12 @@ a:hover
 	color: #fcfff5;	
 }
 
+.first_map {
+	float: left;
+}
+
 .first_map p {
+	float: right;
 }
 
 #apDiv1 p {
