@@ -5,22 +5,8 @@ html
 	background-attachment: fixed;
 }
 
-.logo
+header
 {
-	float: left;
-	border: thick solid #000;
-}
-
-nav
-{
-	text-align: center;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	font-style: italic;
-	font-weight: lighter;
-	font-variant: small-caps;
-	text-transform: lowercase;
-	color: #2EA572;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-bottom-style: solid;
@@ -31,11 +17,33 @@ nav
 	border-left-color: #000;
 }
 
+.logo
+{
+	margin-left: 35px;
+}
+
+nav
+{
+	text-align: center;
+	margin-top: 45px;
+	margin-right: 35px;
+	margin-bottom: auto;
+	margin-left: auto;
+	float: right;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: lighter;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	color: #2EA572;
+}
+
 a
 {
-	color: #252255;
+	color: #398C71;
 	font-weight: bold;
-	text-decoration: none;
+	text-decoration: none;	
 }
 
 a:visited
@@ -45,7 +53,7 @@ a:visited
 
 a:hover
 {
-	color:#FFF;
+	color:#FFF
 }
 
 .intown {
