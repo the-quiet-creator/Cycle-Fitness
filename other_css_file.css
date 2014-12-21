@@ -91,6 +91,7 @@ footer
 	padding-top: 170px;
 	padding-bottom: 50px;
 	padding-left: 63px;
+	background-color: #999;
 }
 
 .intown h1 {
@@ -102,6 +103,7 @@ footer
 .out {
 	padding-left: 63px;
 	padding-top: 20px;
+	
 }
 
 .out h1 {
@@ -116,10 +118,15 @@ footer
 #apDiv1 p {
 	font-family: Arial, Helvetica, sans-serif;
 	color: #fcfff5;
-	font-size: 16px;
+	font-size: 20px;
 }
 #apDiv2 {
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	font-size: 14px;
+	font-size: 20px;
+	color: #fcfff5;
+}
+#apDiv3 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
 	color: #fcfff5;
 }
