@@ -5,22 +5,8 @@ html
 	background-attachment: fixed;
 }
 
-.logo
+header
 {
-	float: left;
-	border: thick solid #000;
-}
-
-nav
-{
-	text-align: center;
-	font-family: Helvetica, Arial, sans-serif;
-	font-size: 20px;
-	font-style: italic;
-	font-weight: lighter;
-	font-variant: small-caps;
-	text-transform: lowercase;
-	color: #2EA572;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-bottom-style: solid;
@@ -31,11 +17,33 @@ nav
 	border-left-color: #000;
 }
 
+.logo
+{
+	margin-left: 35px;
+}
+
+nav
+{
+	text-align: center;
+	margin-top: 45px;
+	margin-right: 35px;
+	margin-bottom: auto;
+	margin-left: auto;
+	float: right;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: lighter;
+	font-variant: small-caps;
+	text-transform: lowercase;
+	color: #2EA572;
+}
+
 a
 {
-	color: #252255245;
+	color: #398C71;
 	font-weight: bold;
-	text-decoration: none;
+	text-decoration: none;	
 }
 
 a:visited
@@ -45,47 +53,8 @@ a:visited
 
 a:hover
 {
-	color:#FFF;
+	color:#FFF
 }
-
-.bottom_container
-{
-	text-align: center;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
-}
-
-.bottom_container img
-{
-	margin-top: auto;
-	margin-right: 25px;
-	margin-bottom: auto;
-	margin-left: 25px;
-	display: inline-block;
-	
-}
-
-footer
-{
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
-}
-
-	
-
-
 
 .intown {
 	padding-top: 170px;
@@ -111,7 +80,12 @@ footer
 	color: #fcfff5;	
 }
 
+.first_map {
+	float: left;
+}
+
 .first_map p {
+	float: right;
 }
 
 #apDiv1 p {
