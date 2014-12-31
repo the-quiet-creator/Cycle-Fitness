@@ -54,6 +54,11 @@ a
 	margin-left: 30px;
 }
 
+a:link
+{
+	color: #398C71;
+}
+
 a:visited
 {
 	color: #398C71;
