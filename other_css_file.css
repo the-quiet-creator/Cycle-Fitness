@@ -108,3 +108,38 @@ a:hover
 	font-size: 20px;
 	color: #fcfff5;
 }
+
+.bottom_container
+{
+	text-align: center;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}
+
+.bottom_container img
+{
+	margin-top: auto;
+	margin-right: 25px;
+	margin-bottom: auto;
+	margin-left: 25px;
+	display: inline-block;
+	
+}
+
+footer
+{
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #000;
+	border-right-color: #000;
+	border-bottom-color: #000;
+	border-left-color: #000;
+}

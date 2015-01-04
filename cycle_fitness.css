@@ -7,7 +7,7 @@ html
 
 header
 {
-	text-align: center;
+	text-align: left;
 	position: relative;
 	border-top-style: solid;
 	border-right-style: solid;
@@ -23,6 +23,12 @@ header
 {
 	width: 100%;
 	height: 100%;	
+}
+
+.bike_info
+{
+	float: right;
+	
 }
 
 nav 
@@ -69,6 +75,63 @@ a:hover
 	color:#FFF;
 }
 
+.intown 
+{
+	padding-top: 170px;
+	padding-bottom: 50px;
+	padding-left: 63px;
+}
+
+.intown h1 
+{
+	text-align: center;
+	text-decoration: underline;
+	color: #fcfff5;	
+}
+	
+.out 
+{
+	padding-left: 63px;
+	padding-top: 20px;
+	
+}
+
+.out h1 
+{
+	text-align: center;
+	text-decoration: underline;
+	color: #fcfff5;	
+}
+
+.first_map 
+{
+	float: left;
+}
+
+.first_map p 
+{
+	float: right;
+}
+
+#apDiv1 p 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	color: #fcfff5;
+	font-size: 20px;
+}
+#apDiv2 
+{
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #fcfff5;
+}
+#apDiv3 p 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	color: #fcfff5;
+}
+
 .bottom_container
 {
 	text-align: center;
@@ -102,4 +165,4 @@ footer
 	border-right-color: #000;
 	border-bottom-color: #000;
 	border-left-color: #000;
-}s
+}
