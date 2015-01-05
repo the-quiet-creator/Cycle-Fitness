@@ -101,22 +101,6 @@ h1
 	float: right;
 }
 
-#apDiv1 p {
-	font-family: Arial, Helvetica, sans-serif;
-	color: #fcfff5;
-	font-size: 20px;
-}
-#apDiv2 {
-	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	font-size: 20px;
-	color: #fcfff5;
-}
-#apDiv3 p {
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 20px;
-	color: #fcfff5;
-}
-
 .bottom_container
 {
 	text-align: center;
@@ -157,4 +141,23 @@ footer
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 60px;
+}
+#apDiv4 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	color: #fcfff5;
+	padding-top: 25px;
+}
+#apDiv5 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #fcfff5;
+	font-style: normal;
+}
+#apDiv6 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	color: #fcfff5;
+	font-style: normal;
 }
