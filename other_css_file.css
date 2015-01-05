@@ -64,7 +64,9 @@ a:hover
 h1
 {
 	text-align: center;
-	color: #398C71;
+	color: #fcfff5;
+	text-decoration:underline;
+	padding-top: 35px;
 }
 
 .intown {
