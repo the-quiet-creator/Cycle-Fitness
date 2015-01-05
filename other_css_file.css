@@ -61,6 +61,12 @@ a:hover
 	color:#FFF
 }
 
+h1
+{
+	text-align: center;
+	color: #398C71;
+}
+
 .intown {
 	padding-top: 170px;
 	padding-bottom: 50px;
