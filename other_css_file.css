@@ -64,9 +64,9 @@ a:hover
 h1
 {
 	text-align: center;
-	color: #fcfff5;
-	text-decoration:underline;
+	color: #4140FF ;
 	padding-top: 35px;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 .intown {
@@ -150,4 +150,11 @@ footer
 	border-right-color: #000;
 	border-bottom-color: #000;
 	border-left-color: #000;
+}
+	
+#calendar iframe {
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 60px;
 }
