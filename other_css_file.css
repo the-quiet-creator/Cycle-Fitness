@@ -70,7 +70,7 @@ h1
 }
 
 .intown {
-	padding-top: 170px;
+	padding-top: 50px;
 	padding-bottom: 50px;
 	padding-left: 63px;
 }
@@ -79,6 +79,7 @@ h1
 	text-align: center;
 	text-decoration: underline;
 	color: #fcfff5;	
+	padding-top: 0px;
 }
 	
 .out {
@@ -147,7 +148,6 @@ footer
 	font-size: 16px;
 	font-style: normal;
 	color: #fcfff5;
-	padding-top: 25px;
 }
 #apDiv5 p {
 	font-family: Arial, Helvetica, sans-serif;
