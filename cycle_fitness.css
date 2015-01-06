@@ -67,9 +67,16 @@ a:hover
 	color:#FFF;
 }
 
+.slideshow
+{
+	margin-top: 50px;
+}
+
 .slider
 {
-	
+	width: 60%;
+	border: thin solid #000;
+
 }
 
 .intown 
