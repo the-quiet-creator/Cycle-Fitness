@@ -9,14 +9,6 @@ header
 {
 	text-align: left;
 	position: relative;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
 }
 
 .logo
@@ -140,34 +132,20 @@ a:hover
 .bottom_container
 {
 	text-align: center;
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
 }
 
 .bottom_container img
 {
+	
 	margin-top: auto;
-	margin-right: 25px;
+	margin-right: 75px;
 	margin-bottom: auto;
-	margin-left: 25px;
+	margin-left: 75px;
 	display: inline-block;
 	
 }
 
 footer
 {
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
+	
 }
