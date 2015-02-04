@@ -5,6 +5,8 @@ html
 	background-attachment: fixed;
 }
 
+/*Beginning of navigation*/
+
 header
 {
 	border-top-style: solid;
@@ -50,6 +52,9 @@ a:link
 {
 	color: #398C71;
 }
+
+/*not sure*/
+
 #apDiv3 h3 {
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 36px;
@@ -57,6 +62,7 @@ a:link
 	float: left;	
 }
 
+/*not sure*/
 
 a:visited
 {
@@ -68,12 +74,18 @@ a:hover
 	color:#FFF
 }
 
-li
+/*end of navigation*/
+
+/*css for main bikes page*/
+
+.names
 {
-	list-style-type: none;
-	padding: 0;
-	margin: 0;
+	margin-right: 50px;
+	margin-left: 50px;
+	text-align: center;
 }
+
+/*
 
 h1
 {
@@ -137,18 +149,6 @@ h1
 	margin-left: 25px;
 	display: inline-block;
 	
-}
-
-footer
-{
-	border-top-style: solid;
-	border-right-style: solid;
-	border-bottom-style: solid;
-	border-left-style: solid;
-	border-top-color: #000;
-	border-right-color: #000;
-	border-bottom-color: #000;
-	border-left-color: #000;
 }
 	
 #calendar iframe {
