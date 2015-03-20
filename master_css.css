@@ -78,14 +78,25 @@ a:hover
 
 /*css for main bikes page*/
 
-.names
+.bike_selection
 {
-	margin-right: 50px;
-	margin-left: 50px;
 	text-align: center;
 }
 
-/*
+.names
+{
+	margin-top: 50px;
+	text-align: center;
+}
+
+.bike_links
+{
+    text-align: center;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+/*end of css for main bikes page*/
 
 h1
 {
